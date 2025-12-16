@@ -1,8 +1,15 @@
-# 忽略 __pycache__ 目录 (您的主要需求)
-__pycache__/
+
 
 # 忽略编译后的字节码文件
 *.pyc
 # 忽略由 Cython 生成的 C/C++ 源文件
 *.c
 *.cpp
+
+# IDE Files
+.idea/
+*.iml
+
+# OS and Cache Files
+.DS_Store
+__pycache__/
