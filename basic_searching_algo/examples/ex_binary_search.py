@@ -1,10 +1,5 @@
-# main.py
+from basic_searching_algo.algos import SearchAlgo
 
-
-# 1. 导入文件名
-import SearchAlgo
-
-# 2. 将执行逻辑放入主程序入口
 if __name__ == "__main__":
 
     list = [1,2,3,4,5,6,7,8,888,8889]

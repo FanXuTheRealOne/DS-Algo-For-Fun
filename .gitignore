@@ -13,3 +13,5 @@
 # OS and Cache Files
 .DS_Store
 __pycache__/
+
+test.ipynb
